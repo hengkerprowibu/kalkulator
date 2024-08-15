@@ -1,0 +1,2 @@
+# kalkulator
+ib: MRIJALULALBAB
